@@ -1,10 +1,9 @@
-import DemoComponent from "./DemoComponent";
-
+import FormLayout from "./FormLayout";
 
 function App() {
   return (
     <div>
-   <DemoComponent />
+      <FormLayout />
     </div>
   );
 }
